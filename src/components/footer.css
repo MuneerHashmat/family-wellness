@@ -1,0 +1,15 @@
+footer>.small{
+    background-color: gray;
+    text-align: center;
+    font-size: 12px;
+    padding: 17px 0;
+}
+
+footer>.big{
+    text-align: center;
+    margin: 15px 0;
+}
+
+footer a{
+    text-decoration: none;
+}
